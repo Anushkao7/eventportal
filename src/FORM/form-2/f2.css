@@ -1,0 +1,22 @@
+.sui{
+    display: grid;
+    justify-content: center;
+}
+.ocr{    
+    border: 1px  solid #000000;
+    padding-right:  40px;
+    padding-left: 40px;
+}
+.deatail{
+    /* margin-left: 30px; */
+    margin-top: 20px;
+    text-align: center;
+    font-size: 16px;
+
+}
+.but{
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+    font-size: 16px;
+}

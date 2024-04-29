@@ -1,0 +1,30 @@
+
+.curt{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+.carousel-item img {
+    object-fit: cover; /* Make the image cover the entire carousel item */
+    height: 400px; /* Ensure the image fills the entire height of the carousel item */
+    width: 1250px; /* Ensure the image fills the entire width of the carousel item */
+  }
+
+.active {
+    background: none;
+    color: #000;
+
+}
+
+.carousel-indicators [data-bs-target]{
+    border-radius: 100%;
+    max-width: 5px;
+    max-height: 5px;
+
+}
+
+
+
